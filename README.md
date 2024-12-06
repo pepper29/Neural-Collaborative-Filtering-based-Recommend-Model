@@ -1,4 +1,4 @@
-# Deep Learning-based Recommendation System-NCF(Neural-Collaborative-Filtering) Based
+# Deep Learning-based Recommendation System Using NCF(Neural-Collaborative-Filtering)
 - A deep learning-based recommendation system that provides personalized suggestions using advanced algorithms
 
 ## Overview
